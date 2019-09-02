@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-LABEL maintainer="B.E.A.R. <burak.ozel@beartell.com>"
+LABEL maintainer="B.E.A.R. <bcakir@beartell.com>"
 
 RUN apt-get update --fix-missing
 

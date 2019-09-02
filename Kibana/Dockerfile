@@ -1,11 +1,11 @@
 ####################################
-#  B.E.A.R Tupras Website Tracker  #
+#  B.E.A.R Website Tracker  #
 ####################################
 
 FROM kibana:6.4.2
 USER root
 
-LABEL maintainer="B.E.A.R. <burak_ozel@beartell.com>"
+LABEL maintainer="B.E.A.R. <bcakir@beartell.com>"
 
 RUN yum install -y wget curl
 
