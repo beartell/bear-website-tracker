@@ -1,0 +1,4 @@
+server.name: <server_name>
+server.host: "0"
+elasticsearch.url: <elasticsearch_cluster_host>
+xpack.monitoring.ui.container.elasticsearch.enabled: true
